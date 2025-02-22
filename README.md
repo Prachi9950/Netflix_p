@@ -53,7 +53,7 @@ Modify & enhance as per your needs!
   git add .
   git commit -m "Initial commit"
   git branch -M main
-  git remote add origin https://github.com/your-username/netflix-disney-clone.git
+  git remote add origin https://github.com/Prachi9950/Netflix_p.git
   git push -u origin main
 
 📜 License
